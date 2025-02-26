@@ -16,7 +16,7 @@
 - Performed exploratory data analysis (EDA)  
 - Optimized memory usage for large data handling  
 
-🔹 **Notebook:** [`big_data_analysis.ipynb`](big_data_analysis.ipynb)  
+🔹 **Notebook:** ['BIGDATA_ANALYSIS.ipynb'] 
 
 ---  
 
@@ -33,7 +33,7 @@
 - Customer segmentation insights  
 - Product-wise sales trends  
 
-🔹 **Dashboard File:** [`ecommerce_dashboard.pbix`](ecommerce_dashboard.pbix)  
+🔹 **Dashboard File:** [`E-Commerce_sales.pbix']  
 
 ---
 
@@ -50,7 +50,7 @@
 - Trained multiple ML models (e.g., Linear Regression, Random Forest)  
 - Evaluated models using accuracy metrics  
 
-🔹 **Notebook:** [`ml_model.ipynb`](ml_model.ipynb)  
+🔹 **Notebook:** [`ML model.ipynb']  
 
 ---
 
@@ -67,6 +67,6 @@
 - Vectorized text data using **TF-IDF**  
 - Trained ML models for sentiment classification  
 
-🔹 **Notebook:** [`sentiment_analysis.ipynb`](sentiment_analysis.ipynb)  
+🔹 **Notebook:** [`Sentiment_Analysis.ipynb']  
 
 
